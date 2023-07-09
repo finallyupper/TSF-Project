@@ -1,4 +1,4 @@
-- Notice : I'm currently fixting some of the code (as a bit of problem found)
+- Notice : I'm currently fixing some of the code (as a bit of problem found)
 # Stock Price Prediction Project
 
 - Notice : The project was free topic.
