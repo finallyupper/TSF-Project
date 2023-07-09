@@ -1,5 +1,5 @@
+- Notice : I'm currently fixting some of the code (as a bit of problem found)
 # Stock Price Prediction Project
-## Done for Data Science final project in 2023 1st semester
 
 - Notice : The project was free topic.
 - Full presentation pdf is given in the repository.
